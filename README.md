@@ -1,5 +1,1 @@
-<p align="center">
-  <b>Projects:</b><br>
-  <a href="the3dbb.github.io/SkrPak">SkrPak</a><br>
-  <em>kinda barren ngl</em>
-</p>
+# Hey there, I'm usually known online using the psudo Edb.
