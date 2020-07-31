@@ -1,4 +1,4 @@
-# Hey there! :wave:
+# Hey there! 👋
 ## Who am I?
 To put it short, I'm a "programmer." Longer, I'm just a random male making stuff for people to use, while wanting to learn more.
 ## What do I do?
