@@ -1,6 +1,6 @@
 <h1 align="center"><a href="the3dbb.github.io">edb.onGitHub</a></h1>
 <p align="center">
-  <a href="the3dbb.github.io">Home</a> • <a href="projects">Projects</a> • <a href="contact">Contact Me</a>
+  Home • <a href="projects">Projects</a> • <a href="contact">Contact Me</a>
 </p>
 
 <h2>Hello!</h2>
