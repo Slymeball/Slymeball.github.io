@@ -6,6 +6,6 @@
 <h2 align="center">Projects</h2>
 <p>
   <ul>
-    <li><a href="../SkrPak">SkrPak</a></li>
+    <li><a href="https://the3dbb.github.io/SkrPak">SkrPak</a></li>
   </ul>
 </p>
