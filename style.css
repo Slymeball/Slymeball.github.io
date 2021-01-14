@@ -1,0 +1,132 @@
+/* Font: Barlow */
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600;700;800;900&display=swap');
+
+/* Global */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #22222b;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 12px;
+}
+  
+/* Track */
+::-webkit-scrollbar-track {
+    background: #22222b;
+}
+  
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #80ff70;
+}
+  
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #90ff80;
+}
+
+/* Navigation Bar */
+
+div#nav {
+    margin: 10px;
+}
+
+ul#navbar {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #44444d;
+    border-radius: 10px;
+}
+  
+ul#navbar li {
+    float: left;
+}
+  
+ul#navbar li a {
+    display: block;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 600;
+    color: #e9e9f5;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul#navbar li a:hover {
+    background-color: #55555e;
+}
+
+ul#navbar li a.active {
+    background-color: #80ee70;
+    color: #22222b;
+}
+
+ul#navbar li a.title {
+    background-color: #90ff80;
+    color: #22222b
+}
+
+/* Content */
+div#contentandfooter {
+    margin: 10px;
+    padding: 0px;
+    background-color: #33333c;
+    border-radius: 10px;
+}
+
+div#content {
+    font-family: 'Barlow', sans-serif;
+    margin: 0px;
+    padding: 1px 10px;
+    color: #e9e9f5;
+    background-color: #44444d;
+    border-radius: 10px;
+}
+
+div#content h1 {
+    font-weight: 800;
+    margin: 5px 5px;
+}
+
+div#content p {
+    font-size: 16px;
+    font-weight: 400;
+    margin: 5px 5px 10px;
+}
+
+/* Footer */
+div#footer {
+    font-family: 'Barlow', sans-serif;
+    margin: 0px 0px;
+    padding: 1px 10px;
+    color: #e9e9f5;
+}
+
+div#footer h1 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 24px;
+    margin: 5px 5px
+}
+
+div#footer p {
+    text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+    margin: 5px 5px 10px;
+}
+
+div#footer p a {
+    text-decoration: none;
+    color: #80ee70;
+}
+
+div#footer p a:hover {
+    font-weight: 600;
+    color: #90ff80;
+}
