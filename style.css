@@ -1,0 +1,21 @@
+body {
+    background-color: #22222b;
+}
+
+h1, h2, p, li {
+    color: #ffffff;
+}
+
+.margin0 {
+    margin: 0;
+}
+
+a {
+    color: #90ff80;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #b0ffa0;
+    text-decoration: underline;
+}
